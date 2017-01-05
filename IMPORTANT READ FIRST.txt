@@ -1,0 +1,9 @@
+NIKHIL SWAMI
+
+
+You need to install PYCRYPTO software for encrpytion.
+Before you run the program the folder for monitoring is predefined in the config file.
+The address is D:\New Folder.
+Make sure that folder exists or the program will only authenticate the user but not upload any files.
+All files needs to be in included in that folder which is used in the program to uploaded.
+Folder address can be changed from CONFIG.INI file included in the folder.
